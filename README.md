@@ -1,6 +1,6 @@
 # mern-ts-blog-app
 
-Node + Typescript
-React + Typescript
-Firebase Google Authentication
-MongoDB
+# Node + Typescript
+# React + Typescript
+# Firebase Google Authentication
+# MongoDB
